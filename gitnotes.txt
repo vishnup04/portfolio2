@@ -1,0 +1,6 @@
+git
+*cmd
+*git status:use to check the status of git in a folder
+*git init:use to create a git repository in a folder
+*git add . : used to track all untracked files to git
+*git-commit-m "message" :used to store/save tracked messages
